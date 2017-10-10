@@ -1,3 +1,8 @@
 ---
+- name: CURLing File
+  command: "curl {{ test_url }}"
 
+- name: Printing Variable
+  debug:
+    msg: "{{ test_dictionary }}"
 ...
