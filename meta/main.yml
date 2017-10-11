@@ -1,0 +1,9 @@
+---
+galaxy_info:
+author: gatblau
+description: An Ansible role for testing Prometeo runners.
+license: Apache
+min_ansible_version: 2.3.1.0
+platforms:
+- name: CentOS
+...
