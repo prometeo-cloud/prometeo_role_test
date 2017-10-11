@@ -3,6 +3,4 @@ galaxy_info:
 author: gatblau
 license: Apache
 min_ansible_version: 2.3.1.0
-platforms:
-- name: CentOS
 ...
