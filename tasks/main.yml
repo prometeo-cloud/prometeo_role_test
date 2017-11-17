@@ -1,6 +1,6 @@
 ---
 - name: CURLing HTTP resource into a file
-  command: "curl -o test_file {{ test_url }}"
+  command: "curl -o ~/test_file {{ test_url }}"
 
 - name: Printing Variable
   debug:
